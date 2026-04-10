@@ -1,4 +1,4 @@
 print("hello")
 print ("world")
 print ("hi there.")
-#hi this is text 
+#hi this is comment
